@@ -1,0 +1,145 @@
+.content-p-container{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.content-cont{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.main-content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8em;
+    margin-top: 7em;
+}
+.content-1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 24em;
+    font-size: 20px;
+    text-align: center;
+    font-family: roboto;
+    line-height: 30px;
+    gap: 1em;
+    margin-top: -1em;
+    margin-left:2em ;
+}
+.c1-p{
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 0.7em;
+}
+.first-title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.c0-p{
+    width: 43em;
+    display: flex;
+    text-align: center;
+    margin-top: 1.4em;
+    font-weight: 400;
+    font-size: 20px;
+
+}
+.sec-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 12%;
+    margin-right: -5em;
+    margin-top: 7em;   
+}
+.c2-p{
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 0.7em;
+    width: 98%;
+}
+.cont-2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 24em;
+    font-size: 20px;
+    text-align: center;
+    font-family: roboto;
+    line-height: 30px;
+    gap: 1em;
+    margin-top: -1em;
+}
+.sec-img{
+    margin-left: 3em;
+}
+.started-cont{
+    display: flex;
+    justify-content: center;
+
+}
+ .started{
+    display: flex;
+    width: 72em;
+    justify-content: center;
+    flex-direction: column;
+height: 194px;
+margin-top: 10em;
+background-color: #E6F6FE;
+border-radius: 10px;
+align-items: flex-start;
+
+}
+.md-p{
+background-color: #E6F6FE;
+margin-left: 1em;
+left: 464px;
+margin-top: -0.5em;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+color: #000000;
+}
+.get-start{
+    transition: 1s;
+    background: #03A9F4;
+    color: #E6F6FE;
+height: 48px;
+width: 164px;
+border-radius: 10px;
+font-weight: 700;
+font-size: 20px;
+align-items: center;
+display: flex;
+justify-content: center;
+border:1px white;
+cursor: pointer;
+}
+.get-start:hover{
+    color: #03A9F4;
+    transition: 1s;
+    background-color: #E6F6FE;
+
+}
+.p-b{
+    display: flex;
+    gap: 20em;
+    background-color: #E6F6FE;
+}
+
+.free-trial{
+    background-color: #E6F6FE;
+    margin-left: 1em;
+    font-size: 24px;
+    color: #03A9F4;
+
+}
